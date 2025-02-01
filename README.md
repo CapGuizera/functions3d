@@ -1,8 +1,4 @@
-Claro, aqui está a descrição em inglês para você colocar no GitHub:
-
----
-
-# 3D Function Plotter
+# 3d-function-plotter
 
 This Python tool allows users to generate interactive 3D plots of mathematical functions. By leveraging 
 
